@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-jsx",
+    "jsxImportSource": "react", 
+    "lib": ["es2015", "DOM"], 
+    "target": "ES5"
+  }
+}
